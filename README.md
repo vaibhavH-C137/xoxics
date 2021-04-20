@@ -1,4 +1,4 @@
-- 👋 > Hi, I’m **@xoxics**
+> Hi, I’m **@xoxics**
 - 👀 I’m interested in exploring and working on comps technology
 - 🌱 I’m currently learning Web dev
 - 💞️ And now a days working on tech blog called ```Project-Vi```
