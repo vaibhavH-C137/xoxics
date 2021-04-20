@@ -1,5 +1,4 @@
-> Hi, I’m **Vaibhav Haldia**
- 
+'Hi, I’m **Vaibhav Haldia**'
 > **About me?**
 - 👀 I’m interested in exploring and working on comps technology
 - 🌱 I’m currently learning Web dev
