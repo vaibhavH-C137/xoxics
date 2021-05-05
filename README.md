@@ -1,16 +1,12 @@
-
-
-Hi, I’m **Vaibhav Haldia** <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width:100%;">
-
-
-> **About me?**
+## Hey 👋, This is Vaibhav Haldia
+[![Gmail Badge](https://img.shields.io/badge/-VAIBHAVGSH@GMAIL.COM-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:VAIBHAVGSH@GMAIL.COM)](mailto:VAIBHAVGSH@GMAIL.COM) 
+[![Linkedin Badge](https://img.shields.io/badge/-vhald-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vhald/)](https://www.linkedin.com/in/vhald/) [![Github Badge](https://img.shields.io/badge/-xoxics-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xoxics/)](https://www.github.com/xoxics/) [![Twitter Badge](https://img.shields.io/badge/-v_hald-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/v_hald/)](https://www.twitter.com/v_hald/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://portfolio-vaibhavh.netlify.app//)](https://portfolio-vaibhavh.netlify.app//) <p align='left'>> **About me?**
 - 👀 Interested in studying and working on daily interactive technology.
 - 🌱 I’m currently learning Web dev.
 - 💞️ And now a days working on a tech blog called [```Project-Vi```](https://github.com/xoxics/).
-- 📫 Its not hard to find me. just [search](https://github.com/xoxics/) my name and i'll summon before you.
-<!--- we have to add my portfolio webiste link in this google link place--->
+- 📫 Its not hard to find me. just [search](https://github.com/xoxics/) my name and i'll summon before you.</p>
+## Some of my Github Stats
+<p align=left> <img src=https://komarev.com/ghpvc/?username=xoxics alt=xoxics /> </p>
 
-<!---
-xoxics/xoxics is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Github stats](https://github-readme-stats.vercel.app/api?username=xoxics&show_icons=true&include_all_commits=true)](https://github.com/xoxics/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xoxics&layout=compact)](https://github.com/xoxics/github-readme-stats)
