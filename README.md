@@ -1,13 +1,13 @@
 ## Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, This is Vaibhav Haldia
 [![Gmail Badge](https://img.shields.io/badge/-vaibhavgsh@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:vaibhavgsh@gmail.com)](mailto:vaibhavgsh@gmail.com) 
-[![Linkedin Badge](https://img.shields.io/badge/-vhald-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vhald/)](https://www.linkedin.com/in/vhald/) [![Github Badge](https://img.shields.io/badge/-xoxics-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xoxics/)](https://www.github.com/xoxics/) [![Twitter Badge](https://img.shields.io/badge/-v_hald-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/v_hald/)](https://www.twitter.com/v_hald/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://portfolio-vaibhavh.netlify.app//)](https://portfolio-vaibhavh.netlify.app//)<p align='left'>> 
+[![Linkedin Badge](https://img.shields.io/badge/-vhald-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vhald/)](https://www.linkedin.com/in/vhald/) [![Github Badge](https://img.shields.io/badge/-xoxics-grey?style=flat&logo=github&logoColor=white&link=https://github.com/xoxics/)](https://www.github.com/xoxics/) [![Twitter Badge](https://img.shields.io/badge/-v_hald-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/v_hald/)](https://www.twitter.com/v_hald/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://portfolio-vaibhavh.netlify.app//)](https://portfolio-vaibhavh.netlify.app//)<p align='left'>
  
  
  > **About me?**
  
 - 👀 Interested in studying and working on daily interactive technology.
 - 🌱 I’m currently learning Web dev.
-- 💞️ And now a days working on a tech blog called [```Project-Vi```](https://vhald.hashnode.dev/).
+- 💞️ And now a days working on a tech blog called [```vhald's tech blog```](https://vhald.hashnode.dev/).
 - 📫 Its not hard to find me. just [search](https://linkedin.com/vhald) my name and i'll summon before you.</p>
 
 Want to know more about me? [Check out my portfolio.](https://portfolio-vaibhavh.netlify.app/)
