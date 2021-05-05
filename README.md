@@ -8,7 +8,7 @@
 - 👀 Interested in studying and working on daily interactive technology.
 - 🌱 I’m currently learning Web dev.
 - 💞️ And now a days working on a tech blog called [```vhald's tech blog```](https://vhald.hashnode.dev/).
-- 📫 Its not hard to find me. just [search](https://linkedin.com/vhald) my name and i'll summon before you.</p>
+- 📫 Its not hard to find me. just [search](https://linkedin.com/in/vhald) my name and i'll summon before you.</p>
 
 Want to know more about me? [Check out my portfolio.](https://portfolio-vaibhavh.netlify.app/)
 
