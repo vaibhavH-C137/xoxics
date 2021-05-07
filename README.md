@@ -10,13 +10,13 @@
 - 💞️ And now a days working on a tech blog called [```vhald's tech blog```](https://vhald.hashnode.dev/).
 - 📫 Its not hard to find me. just [search](https://linkedin.com/in/vhald) my name and i'll summon before you.</p>
 
-Want to know more about me? [Check out my portfolio.](https://portfolio-vaibhavh.netlify.app/)
+Want to know more about me? [Check out my portfolio.](https://portfolio-vhaldia.netlify.app/)
 
 
 
 ## 📕 Latest Blog Posts
 
-- [Dummy Blogs](https://portfolio-vaibhavh.netlify.app/blog-page1.html)
+- [What are the alternatives of GitHub](https://vhald.hashnode.dev/what-are-the-alternatives-of-github)
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=xoxics alt=xoxics /> </p>
