@@ -17,6 +17,8 @@ Want to know more about me? [Check out my portfolio.](https://portfolio-vhaldia.
 
 ## 📕 Latest Blog Posts
 
+- [Proxy Servers](https://vhald.hashnode.dev/proxy-servers)
+- [History of Web & Browser](https://vhald.hashnode.dev/history-of-web-and-browser)
 - [What are the alternatives of GitHub](https://vhald.hashnode.dev/what-are-the-alternatives-of-github)
 
 ## Some of my Github Stats
